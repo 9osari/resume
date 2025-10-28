@@ -10,9 +10,7 @@
 
 ## 👋 소개
 
-도메인 주도 설계(DDD)와 객체지향 원칙(OOP, SRP)에 기반하여 **확장 가능한 백엔드 시스템을 설계**하는 개발자입니다.
-
-클린 코드와 테스트 주도 개발(TDD)을 지향하며, 명확한 책임 분리와 협업 효율을 중시합니다.
+Spring Framework와 MyBatis/Oracle 기반의 엔터프라이즈 시스템 운영을 통해 데이터 접근 및 서비스 운영의 기본 원리를 실무에서 체득했습니다. 또한, 최신 개발 트렌드를 반영하고자 개인 프로젝트에서는 Spring Boot와 JPA를 활용하여 도메인 주도 설계(DDD)와 객체지향 원칙에 기반한 유연하고 확장 가능한 백엔드 시스템을 구축하는 역량을 지속적으로 키우고 있습니다.
 
 ---
 
@@ -20,14 +18,12 @@
 
 ### 🧩 Backend  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=Postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-FF6C37?style=flat-square&logo=Socket.io&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,7 +46,7 @@
 
 *2024.03 - 현재 | 서울*
 
-- ~~
+- Spring Framework, MyBatis, Oracle 기반의 LIMS(실험실 정보 관리 시스템) 운영 및 유지보수 참여.
 - ~~
 - ~~
 - ~~
