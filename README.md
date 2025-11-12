@@ -43,7 +43,7 @@ DDD 기반 설계와 클라우드 인프라 구축 경험을 활용하여 확장
 > Java, Spring Framework, MyBatis, Oracle
 
 **삼진제약 QMS 7.1** | 2025.10 - 현재
-- [고객사 모르는 L7 스위치 찾기](https://9osari.netlify.app/posts/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0/)
+- [고객사, 관리자도 모르는 L7 스위치 찾기](https://9osari.netlify.app/posts/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0/)
 - JavaScript 모듈 통합 이슈 해결 메모리 누수 방지
 - 공급업체 관리 및 승인 워크플로우 구현
 
