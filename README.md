@@ -43,18 +43,18 @@ DDD 기반 설계와 클라우드 인프라 구축 경험을 활용하여 확장
 > Java, Spring Framework, MyBatis, Oracle
 
 **삼진제약 QMS 7.1** | 2025.10 - 현재
+- [고객사 모르는 L7 스위치 찾기](https://9osari.netlify.app/posts/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0/)
 - JavaScript 모듈 통합 이슈 해결 메모리 누수 방지
 - 공급업체 관리 및 승인 워크플로우 구현
-- [네트워크 장애 이슈 해결](https://9osari.netlify.app/posts/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0/)
 
-  **하나제약 LIMS 7.1** | 2024.12 - 2025.10
+**하나제약 LIMS 7.1** | 2024.12 - 2025.10
+- [슬로우 쿼리 **7배** 성능 개선](https://9osari.netlify.app/posts/%EA%B3%B5%ED%86%B5%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0/)
 - 시스템 버전업에 따른 신규 기능 개발 및 기존 기능 호환성 확보
-- [Oracle 쿼리 최적화를 통한 조회 성능 개선](https://9osari.netlify.app/posts/%EA%B3%B5%ED%86%B5%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0/)
 - CHRONIX 리포트 개발: 30종 이상의 분석 성적서 및 라벨 양식 개발
 
 **현대약품 LIMS 7.0** | 2024.03 - 2025.03
+- [레거시 소스에 OOP 리펙토링 적용기](https://9osari.netlify.app/posts/%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81/): 단일 책임 원칙에 따라 클래스 분리, 유지보수성 확보
 - 승인 프로세스 동시성 이슈 해결: synchronized 블록과 트랜잭션 격리 수준 조정으로 중복 승인 방지, 데이터 정합성 100% 확보
-- [레거시 코드 리펙토링](https://9osari.netlify.app/posts/%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81/): 단일 책임 원칙에 따라 클래스 분리, 유지보수성 확보
 
 
 ---
